@@ -1,0 +1,14 @@
+{
+  "name": "choices-choices-the-tech-stack",
+  "version": "1.0.0",
+  "description": "Bouw een site voor de oba met een tech stack naar keuze",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trisjan Mustamu",
+  "license": "ISC"
+}
